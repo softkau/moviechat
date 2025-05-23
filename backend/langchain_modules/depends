@@ -1,0 +1,6 @@
+pip:
+    tmdbsimple
+    wikipedia
+    langchain
+    langchain_openai
+    langchain_chroma
